@@ -1,0 +1,10 @@
+telebot
+time
+pandas==1.3.1
+numpy==1.22.2
+pathlib
+aiogram
+difflib
+random
+plotly
+orca
